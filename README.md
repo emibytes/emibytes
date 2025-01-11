@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning *Angular* and *AWS*
 
-- 👯 I’m looking to collaborate on *MajesticSoft*
+- 👯 I’m looking to collaborate on *InsaIT*
 
 - 📝 I regularly write articles on [www.majesticsoft.com/blog](www.majesticsoft.com.co/blog)
 
-- 💬 Ask me about *Vue, laravel, MySQL, PostgreSQL, Docker, Plesk and Linux*
+- 💬 Ask me about *Vue, laravel, MySQL, PostgreSQL, Docker, Plesk and Linux, Jira, Angular, Flutter*
 
-- 📫 How to reach me *emimaster16@gmail.com*
+- 📫 How to reach me *eminsonmendoza@gmail.com*
 
 - 📄 Know about my experiences [Systems engineer with more than 8 years of experience as a fullstack developer.](Systems engineer with more than 8 years of experience as a fullstack developer.)
 
