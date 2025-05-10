@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eminson Mendoza</h1>
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emibytes&label=Profile%20views&color=0e75b6&style=flat" alt="emendozam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emibytes&label=Profile%20views&color=0e75b6&style=flat" alt="emibytes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EmisonDevOps" alt="emendozam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EmisonDevOps" alt="emibytes" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/emibytes" target="blank"><img src="https://img.shields.io/twitter/follow/emibytes?logo=twitter&style=for-the-badge" alt="emibytes" /></a> </p>
 
@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on *InsaIT*
 
-- 📝 I regularly write articles on [www.insait.com.co/blogs](www.insait.com.co/blogs)
+- 📝 I regularly write articles on [www.emibytes.com](www.emibytes.com)
 
 - 💬 Ask me about *Vue, laravel, MySQL, PostgreSQL, Docker, Plesk and Linux, Jira, Angular, Flutter*
 
-- 📫 How to reach me *eminsonmendoza@gmail.com*
+- 📫 How to reach me *emibytes@gmail.com*
 
 - 📄 Know about my experiences [Systems engineer with more than 8 years of experience as a fullstack developer.](Systems engineer with more than 8 years of experience as a fullstack developer.)
 
