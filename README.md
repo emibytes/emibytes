@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eminson Mendoza</h1>
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emibytes&label=Profile%20views&color=0e75b6&style=flat" alt="emibytes" /> </p>
+<p align="left"> <img src="hhttps://emibytes.com/brand/logo/logo-dark.png" alt="emibytes" /> </p>
 
 <p align="left"> <a href="https://github.com/emibytes"><img src="https://github-profile-trophy.vercel.app/?username=emibytes" alt="emibytes" /></a> </p>
 
