@@ -1,35 +1,221 @@
-<h1 align="center">Hi 👋, I'm Eminson Mendoza</h1>
-<h3 align="center">A passionate full stack developer from Colombia</h3>
+<div align="center">
 
-<p align="left"> <img src="https://emibytes.com/brand/logo/logo-dark.png" alt="emibytes" /> </p>
+# emibytes
 
-<p align="left"> <a href="https://twitter.com/emibytes_co" target="blank"><img src="https://img.shields.io/twitter/follow/emibytes_co?logo=twitter&style=for-the-badge" alt="emibytes" /></a> </p>
+### Software que convierte procesos complejos en productos simples.
 
-- 🔭 I’m currently working on *Electronic payroll software*
+**Construimos plataformas SaaS, software a medida y automatizaciones con IA para empresas que necesitan ir más lejos.**
 
-- 🌱 I’m currently learning *Angular* and *AWS*
+[🌐 emibytes.com](https://emibytes.com) · [💬 Hablemos](https://wa.me/573166263560) · [✉️ team@emibytes.com](mailto:team@emibytes.com)
 
-- 👯 I’m looking to collaborate on *InsaIT*
+</div>
 
-- 📝 I regularly write articles on [www.emibytes.com](www.emibytes.com)
+---
 
-- 💬 Ask me about *React, laravel, MySQL, PostgreSQL, Docker, Plesk and Linux, Jira, Angular, Flutter*
+## Sobre emibytes
 
-- 📫 How to reach me *team@emibytes.com*
+**emibytes es un estudio de software de Colombia.**
 
-- 📄 Know about my experiences [Systems engineer with more than 8 years of experience as a fullstack developer.](Systems engineer with more than 8 years of experience as a fullstack developer.)
+Diseñamos y construimos productos digitales para resolver problemas reales de negocio.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/emibytes_co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emibytes" height="30" width="40" /></a>
-<a href="https://instagram.com/emibytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emibytes" height="30" width="40" /></a>
-</p>
+No trabajamos con templates ni soluciones prefabricadas. **Entendemos el proceso, diseñamos la solución y construimos el software.**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> </p>
+Nuestro trabajo combina:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emibytes&show_icons=true&locale=en&layout=compact" alt="emibytes" /></p>
+- 🧠 **Software a medida**
+- ⚡ **Productos SaaS**
+- 🤖 **Automatización + Inteligencia Artificial**
+- 🛒 **E-commerce para Colombia**
+- 🔗 **Integraciones y APIs**
+- 📊 **Plataformas internas y sistemas de operación**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emibytes&show_icons=true&locale=en" alt="emibytes" /></p>
+> **Tu visión, hecha realidad.**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emibytes&" alt="emibytes" /></p>
+---
+
+## Lo que construimos
+
+### 🏗️ Software a medida
+
+Plataformas, sistemas administrativos, dashboards y herramientas internas diseñadas alrededor de los procesos reales de cada empresa.
+
+**Arquitecturas escalables · APIs · Seguridad · Auditoría · Integraciones**
+
+---
+
+### 🤖 Automatización + IA
+
+Convertimos procesos manuales en flujos automatizados.
+
+Integramos inteligencia artificial, agentes, APIs y workflows para que los procesos puedan ejecutarse de forma continua.
+
+**OpenAI · n8n · APIs · Agentes de IA · Automatización 24/7**
+
+---
+
+### 🛒 E-commerce
+
+Construimos tiendas y plataformas comerciales preparadas para el mercado colombiano.
+
+**Wompi · PayU · Facturación electrónica DIAN · Logística · APIs**
+
+---
+
+### 🚀 Productos propios
+
+No solamente desarrollamos software para otras empresas.
+
+**También construimos nuestras propias plataformas SaaS.**
+
+| Producto | Qué resolvemos |
+|---|---|
+| **Zcuela** | Gestión académica y administrativa para instituciones educativas |
+| **Gyro** | Gestión y operación para gimnasios |
+| **Recaudo Inteligente** | Automatización de procesos de recaudo y cobranza |
+
+---
+
+## 🧩 Nuestro stack
+
+Construimos cada producto utilizando la tecnología adecuada para el problema.
+
+**Frontend**
+
+`Next.js` · `Angular` · `React` · `Vue` · `Tailwind CSS`
+
+**Backend**
+
+`Laravel` · `PHP` · `Node.js` · `Java`
+
+**Data**
+
+`PostgreSQL` · `MySQL` · `MariaDB` · `Redis`
+
+**Cloud & Infrastructure**
+
+`Docker` · `Linux` · `Supabase` · `APIs`
+
+**AI & Automation**
+
+`OpenAI` · `n8n` · `AI Agents`
+
+**Payments & Colombia**
+
+`Wompi` · `PayU` · `DIAN`
+
+---
+
+## 🏛️ Nuestra forma de trabajar
+
+No comenzamos escribiendo código.
+
+Primero entendemos el problema.
+
+```text
+01  DIAGNÓSTICO
+    ↓
+02  PROTOTIPO
+    ↓
+03  BUILD
+    ↓
+04  DEPLOY + SOPORTE
+```
+
+Trabajamos con ciclos cortos, demos frecuentes y una arquitectura preparada para evolucionar.
+
+**Problema → Diseño → Software → Automatización → Resultado**
+
+---
+
+## 📦 Productos en nuestro ecosistema
+
+### Zcuela
+
+Plataforma educativa para instituciones que buscan simplificar la gestión académica y administrativa.
+
+- Calificaciones inclusivas
+- Asistencia
+- Horarios
+- Boletines
+- Comunicación con padres
+- Certificados académicos
+
+[Conocer Zcuela →](https://emibytes.com)
+
+---
+
+### Gyro
+
+Software diseñado para la operación de gimnasios.
+
+Centraliza la administración y permite que los propietarios dediquen menos tiempo a tareas operativas y más tiempo al crecimiento de su negocio.
+
+[Conocer emibytes →](https://emibytes.com)
+
+---
+
+### Recaudo Inteligente
+
+Automatización para procesos de recaudo y cobranza.
+
+Conectamos sistemas, datos y automatización para reducir trabajo manual y mejorar la operación.
+
+[Conocer emibytes →](https://emibytes.com)
+
+---
+
+## 🔬 Construimos para producción
+
+Nuestro objetivo no es entregar una demo.
+
+**Construimos software que pueda utilizarse, mantenerse y crecer.**
+
+```text
+Software propio
+      +
+Arquitectura sólida
+      +
+Automatización
+      +
+Inteligencia artificial
+      ↓
+Productos digitales que generan valor
+```
+
+---
+
+## 🇨🇴 Hecho en Colombia
+
+**emibytes**
+
+Bucaramanga · Colombia 🇨🇴
+
+Construimos software para empresas que quieren transformar la forma en que trabajan.
+
+---
+
+## 🤝 ¿Tienes un proceso que debería funcionar mejor?
+
+Cuéntanos qué problema estás intentando resolver.
+
+Podemos ayudarte a convertirlo en **software, automatización o un producto digital.**
+
+<div align="center">
+
+### Construyamos algo que valga la pena.
+
+**[🌐 emibytes.com](https://emibytes.com)**
+
+**[💬 WhatsApp](https://wa.me/573166263560)**
+
+**team@emibytes.com**
+
+</div>
+
+---
+
+<div align="center">
+
+**© 2026 emibytes · Software hecho en Colombia.**
+
+</div>
