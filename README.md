@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [www.emibytes.com](www.emibytes.com)
 
-- 💬 Ask me about *Vue, laravel, MySQL, PostgreSQL, Docker, Plesk and Linux, Jira, Angular, Flutter*
+- 💬 Ask me about *React, laravel, MySQL, PostgreSQL, Docker, Plesk and Linux, Jira, Angular, Flutter*
 
 - 📫 How to reach me *team@emibytes.com*
 
