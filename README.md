@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://emibytes.com/brand/logo/logo-dark.png" alt="emibytes" /> </p>
 
-<p align="left"> <a href="https://github.com/emibytes"><img src="https://github-profile-trophy.vercel.app/?username=emibytes" alt="emibytes" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/emibytes_co" target="blank"><img src="https://img.shields.io/twitter/follow/emibytes_co?logo=twitter&style=for-the-badge" alt="emibytes" /></a> </p>
 
 - 🔭 I’m currently working on *Electronic payroll software*
