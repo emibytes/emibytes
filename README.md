@@ -15,7 +15,7 @@
 
 - 💬 Ask me about *Vue, laravel, MySQL, PostgreSQL, Docker, Plesk and Linux, Jira, Angular, Flutter*
 
-- 📫 How to reach me *emibytes@gmail.com*
+- 📫 How to reach me *team@emibytes.com*
 
 - 📄 Know about my experiences [Systems engineer with more than 8 years of experience as a fullstack developer.](Systems engineer with more than 8 years of experience as a fullstack developer.)
 
