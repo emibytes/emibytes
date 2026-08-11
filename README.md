@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emibytes&label=Profile%20views&color=0e75b6&style=flat" alt="emibytes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emibytes" alt="emibytes" /></a> </p>
+<p align="left"> <a href="https://github.com/emibytes"><img src="https://github-profile-trophy.vercel.app/?username=emibytes" alt="emibytes" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/emibytes_co" target="blank"><img src="https://img.shields.io/twitter/follow/emibytes_co?logo=twitter&style=for-the-badge" alt="emibytes" /></a> </p>
 
