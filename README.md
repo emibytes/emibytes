@@ -1,10 +1,14 @@
 <div align="center">
 
-# emibytes
+<img src="https://emibytes.com/brand/logo/logo-dark.png" alt="emibytes" width="180">
 
-### Software que convierte procesos complejos en productos simples.
+<br>
+
+# Software que convierte procesos complejos en productos simples.
 
 **Construimos plataformas SaaS, software a medida y automatizaciones con IA para empresas que necesitan ir más lejos.**
+
+<br>
 
 [🌐 emibytes.com](https://emibytes.com) · [💬 Hablemos](https://wa.me/573166263560) · [✉️ team@emibytes.com](mailto:team@emibytes.com)
 
